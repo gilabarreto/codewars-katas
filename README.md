@@ -1,8 +1,9 @@
 # Index of katas by its category/discipline
 
-These are the 9 code challenges I have completed:
+These are the 10 code challenges I have completed:
 ## Fundamentals
 
+- [Are You Playing Banjo?](./Katas/are-you-playing-banjo)
 - [Sum The Strings](./Katas/sum-the-strings)
 - [Fake Binary](./Katas/fake-binary)
 - [Double Char](./Katas/double-char)
