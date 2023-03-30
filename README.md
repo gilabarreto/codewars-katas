@@ -1,8 +1,9 @@
 # Index of katas by its category/discipline
 
-These are the 15 code challenges I have completed:
+These are the 16 code challenges I have completed:
 ## Fundamentals
 
+- [All Star Code Challenge #18](./Katas/all-star-code-challenge-number-18)
 - [Mumbling](./Katas/mumbling)
 - [Testing 1-2-3](./Katas/testing-1-2-3)
 - [Jaden Casing Strings](./Katas/jaden-casing-strings)
