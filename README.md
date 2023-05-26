@@ -1,8 +1,10 @@
 # Index of katas by its category/discipline
 
-These are the 10 code challenges I have completed:
+These are the 12 code challenges I have completed:
 ## Fundamentals
 
+- [Count by X](./Katas/count-by-x)
+- [You Can't Code Under Pressure #1](./Katas/you-cant-code-under-pressure-number-1)
 - [Are You Playing Banjo?](./Katas/are-you-playing-banjo)
 - [Sum The Strings](./Katas/sum-the-strings)
 - [Fake Binary](./Katas/fake-binary)
