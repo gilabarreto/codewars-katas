@@ -1,8 +1,9 @@
 # Index of katas by its category/discipline
 
-These are the 13 code challenges I have completed:
+These are the 14 code challenges I have completed:
 ## Fundamentals
 
+- [Testing 1-2-3](./Katas/testing-1-2-3)
 - [Jaden Casing Strings](./Katas/jaden-casing-strings)
 - [Count by X](./Katas/count-by-x)
 - [You Can't Code Under Pressure #1](./Katas/you-cant-code-under-pressure-number-1)
