@@ -1,8 +1,9 @@
 # Index of katas by its category/discipline
 
-These are the 14 code challenges I have completed:
+These are the 15 code challenges I have completed:
 ## Fundamentals
 
+- [Mumbling](./Katas/mumbling)
 - [Testing 1-2-3](./Katas/testing-1-2-3)
 - [Jaden Casing Strings](./Katas/jaden-casing-strings)
 - [Count by X](./Katas/count-by-x)
