@@ -1,8 +1,9 @@
 # Index of katas by its category/discipline
 
-These are the 17 code challenges I have completed:
+These are the 18 code challenges I have completed:
 ## Fundamentals
 
+- [Removing Elements](./Katas/removing-elements)
 - [Function 1 - hello world](./Katas/function-1-hello-world)
 - [All Star Code Challenge #18](./Katas/all-star-code-challenge-number-18)
 - [Mumbling](./Katas/mumbling)
