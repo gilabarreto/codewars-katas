@@ -1,8 +1,9 @@
 # Index of katas by its category/discipline
 
-These are the 19 code challenges I have completed:
+These are the 20 code challenges I have completed:
 ## Fundamentals
 
+- [Square Every Digit](./Katas/square-every-digit)
 - [Sum Arrays](./Katas/sum-arrays)
 - [Removing Elements](./Katas/removing-elements)
 - [Function 1 - hello world](./Katas/function-1-hello-world)
