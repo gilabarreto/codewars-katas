@@ -1,8 +1,9 @@
 # Index of katas by its category/discipline
 
-These are the 21 code challenges I have completed:
+These are the 22 code challenges I have completed:
 ## Fundamentals
 
+- [Function 2 - squaring an argument](./Katas/function-2-squaring-an-argument)
 - [Vowel remover](./Katas/vowel-remover)
 - [Square Every Digit](./Katas/square-every-digit)
 - [Sum Arrays](./Katas/sum-arrays)
