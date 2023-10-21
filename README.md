@@ -1,8 +1,9 @@
 # Index of katas by its category/discipline
 
-These are the 24 code challenges I have completed:
+These are the 25 code challenges I have completed:
 ## Fundamentals
 
+- [Anagram Detection](./Katas/anagram-detection)
 - [Sum of two lowest positive integers](./Katas/sum-of-two-lowest-positive-integers)
 - [Opposites Attract](./Katas/opposites-attract)
 - [Function 2 - squaring an argument](./Katas/function-2-squaring-an-argument)
