@@ -1,8 +1,9 @@
 # Index of katas by its category/discipline
 
-These are the 25 code challenges I have completed:
+These are the 26 code challenges I have completed:
 ## Fundamentals
 
+- [Round up to the next multiple of 5](./Katas/round-up-to-the-next-multiple-of-5)
 - [Anagram Detection](./Katas/anagram-detection)
 - [Sum of two lowest positive integers](./Katas/sum-of-two-lowest-positive-integers)
 - [Opposites Attract](./Katas/opposites-attract)
