@@ -1,8 +1,9 @@
 # Index of katas by its category/discipline
 
-These are the 27 code challenges I have completed:
+These are the 28 code challenges I have completed:
 ## Fundamentals
 
+- [Parse nice int from char problem](./Katas/parse-nice-int-from-char-problem)
 - [Beginner Series #1 School Paperwork](./Katas/beginner-series-number-1-school-paperwork)
 - [Round up to the next multiple of 5](./Katas/round-up-to-the-next-multiple-of-5)
 - [Anagram Detection](./Katas/anagram-detection)
