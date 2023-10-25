@@ -1,6 +1,6 @@
 # Index of katas by its category/discipline
 
-These are the 29 code challenges I have completed:
+These are the 30 code challenges I have completed:
 ## Fundamentals
 
 - [Parse nice int from char problem](./Katas/parse-nice-int-from-char-problem)
@@ -32,6 +32,7 @@ These are the 29 code challenges I have completed:
 - [Square(n) Sum](./Katas/square-n-sum)
 ## Algorithms
 
+- [Greed is Good](./Katas/greed-is-good)
 - [Moving Zeros To The End](./Katas/moving-zeros-to-the-end)
 ## Bug Fixes
 
