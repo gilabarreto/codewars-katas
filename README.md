@@ -1,8 +1,9 @@
 # Index of katas by its category/discipline
 
-These are the 32 code challenges I have completed:
+These are the 33 code challenges I have completed:
 ## Fundamentals
 
+- [Equal Sides Of An Array](./Katas/equal-sides-of-an-array)
 - [Two to One](./Katas/two-to-one)
 - [Rot13](./Katas/rot13-1)
 - [Parse nice int from char problem](./Katas/parse-nice-int-from-char-problem)
