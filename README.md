@@ -1,8 +1,9 @@
 # Index of katas by its category/discipline
 
-These are the 31 code challenges I have completed:
+These are the 32 code challenges I have completed:
 ## Fundamentals
 
+- [Two to One](./Katas/two-to-one)
 - [Rot13](./Katas/rot13-1)
 - [Parse nice int from char problem](./Katas/parse-nice-int-from-char-problem)
 - [Beginner Series #1 School Paperwork](./Katas/beginner-series-number-1-school-paperwork)
