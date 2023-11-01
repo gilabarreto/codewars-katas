@@ -1,8 +1,9 @@
 # Index of katas by its category/discipline
 
-These are the 33 code challenges I have completed:
+These are the 34 code challenges I have completed:
 ## Fundamentals
 
+- [Reverse words](./Katas/reverse-words)
 - [Equal Sides Of An Array](./Katas/equal-sides-of-an-array)
 - [Two to One](./Katas/two-to-one)
 - [Rot13](./Katas/rot13-1)
