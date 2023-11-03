@@ -1,8 +1,9 @@
 # Index of katas by its category/discipline
 
-These are the 35 code challenges I have completed:
+These are the 36 code challenges I have completed:
 ## Fundamentals
 
+- [Your order,  please](./Katas/your-order-please)
 - [Playing with digits](./Katas/playing-with-digits)
 - [Reverse words](./Katas/reverse-words)
 - [Equal Sides Of An Array](./Katas/equal-sides-of-an-array)
