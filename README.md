@@ -1,8 +1,9 @@
 # Index of katas by its category/discipline
 
-These are the 37 code challenges I have completed:
+These are the 38 code challenges I have completed:
 ## Fundamentals
 
+- [Counting Duplicates](./Katas/counting-duplicates)
 - [Reversed Strings](./Katas/reversed-strings)
 - [Your order,  please](./Katas/your-order-please)
 - [Playing with digits](./Katas/playing-with-digits)
